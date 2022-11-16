@@ -1,0 +1,5 @@
+WEBVTT
+
+1
+00:00.001 --> 00:03.000 position:0% align:center
+This does not work, browser does not allow same orgin .vtt content load
